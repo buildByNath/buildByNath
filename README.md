@@ -2,8 +2,9 @@
 <img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
 
 <!-- Animated Typing Text -->
+<!-- Animated Typing Text -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3200&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Nath.S;Student+Developer;Python+%7C+C+%7C+Java;Learning.+Building.+Improving." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3200&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Welcome.;Hi%2C+I'm+Nath.S;Building+my+future+through+code." />
 </p>
 
 ---
