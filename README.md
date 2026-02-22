@@ -50,18 +50,10 @@
 
 ---
 
-## 📊 GitHub Overview
+## 🧠 Developer Philosophy
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=buildByNath&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=buildByNath&label=Profile%20Views&color=00F7FF&style=flat" />
-</p>
-
----
-
-<p align="center">
-  <b>> Code. Improve. Repeat.</b>
-</p>
+```bash
+> Write clean code
+> Build strong fundamentals
+> Focus on logic over shortcuts
+> Improve a little every day
