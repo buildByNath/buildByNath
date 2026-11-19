@@ -3,7 +3,7 @@
   <img alt="Nath.S (buildByNath) Developer Banner" src="https://githubusercontent.com" width="100%" />
 </p>
 
-<!-- Animated Typing Text (URL-Encoded Parentheses Fixed) -->
+<!-- Animated Typing Text -->
 <p align="center">
   <img src="https://demolab.com." alt="Hi, I'm Nath.S (buildByNath)" />
 </p>
